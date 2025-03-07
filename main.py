@@ -65,7 +65,6 @@ t.write("Winter olympics")
 screen = turtle.Screen()
 screen.screensize=(500,500)
 
-
 #move
 
 t.pencolor('purple')
